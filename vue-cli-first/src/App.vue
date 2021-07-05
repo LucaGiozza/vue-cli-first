@@ -2,7 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
      <!-- <HelloWorld msg="Welcome to Your Vue.js App"/>  -->
-    <title/>
+    <Title/>
   </div>
 </template>
 
@@ -12,9 +12,8 @@
 
 export default {
   name: 'App',
-  components: {
-    
-     Title
+  components : {
+    Title
   }
 }
 </script>
